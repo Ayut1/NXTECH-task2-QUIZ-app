@@ -1,1 +1,1 @@
-# NXTECH-task2-QUIZ-app
+ A simple Quiz App With JavaScript
